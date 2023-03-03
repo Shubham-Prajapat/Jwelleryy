@@ -1,1 +1,2 @@
-# Prajapat
+# Jwellery
+#Jwellery Managment Project
